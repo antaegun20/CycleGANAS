@@ -1,3 +1,10 @@
 # CycleGANAS
 Official Implementation of CycleGANAS in Pytorch
-paper: https://openaccess.thecvf.com/content/CVPR2024W/CVPR-NAS/papers/An_CycleGANAS_Differentiable_Neural_Architecture_Search_for_CycleGAN_CVPRW_2024_paper.pdf
+@InProceedings{An_2024_CVPR,
+    author    = {An, Taegun and Joo, Changhee},
+    title     = {CycleGANAS: Differentiable Neural Architecture Search for CycleGAN},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2024},
+    pages     = {1655-1664}
+}
