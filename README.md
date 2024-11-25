@@ -1,5 +1,5 @@
 # CycleGANAS
-Official Implementation of CycleGANAS in Pytorch \
+Official Implementation of CycleGANAS in Pytorch
 
 @InProceedings{An_2024_CVPR, \
     author    = {An, Taegun and Joo, Changhee}, \
